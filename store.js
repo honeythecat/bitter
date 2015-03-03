@@ -1,22 +1,22 @@
 var twits = [
   {
-    id: '1',
+    id: '',
     twit: 'Anyone excited about "Change is the Only Constant" at EROI tonight',
   },
   {
-    id: '2',
+    id: '',
     twit: "The ocean is a terrifying place.",
   },
   {
-    id: '3',
+    id: '',
     twit: "Sometimes I wish I had more caffeine than necessary.",
   },
   {
-    id: '4',
+    id: '',
     twit: "For once, McDonald's for breakfast was a great idea.",
   },
   {
-    id: '5',
+    id: '',
     twit: "Ceci n'est pas une tweet.",
   }
 ]

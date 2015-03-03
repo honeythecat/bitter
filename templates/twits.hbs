@@ -11,8 +11,18 @@
 
     {{/each}}
 
+  </div>
+
+  <form>
+    <div class="form-group">
+      <label for="twit">Twit</label>
+      {{input type="textarea" class="form-conrol" value=twit}}
+    </div>
+
+    <button class="btn btn-primary" {{action 'addTwit'}}>Submit Twit</button>
+  </form>
+
+
   <div>
       {{outlet}}
   </div>
-
-</div>
