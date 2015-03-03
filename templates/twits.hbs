@@ -1,0 +1,18 @@
+<h1>This is not Twitter</h1>
+
+<hr>
+
+  <div>
+
+    {{#each}}
+
+      <h4>{{#link-to 'twit' this.id}}{{twit}}{{/link-to}}</h4>
+      <hr>
+
+    {{/each}}
+
+  <div>
+      {{outlet}}
+  </div>
+
+</div>

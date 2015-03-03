@@ -1,0 +1,1 @@
+Bitter = Ember.Application.create();
