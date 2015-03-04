@@ -9,4 +9,5 @@ Bitter.TwitsController = Ember.ArrayController.extend({
       });
     }
   }
+
 });
